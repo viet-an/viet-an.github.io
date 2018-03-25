@@ -274,24 +274,6 @@ a:hover {
 .service .title a:hover {
 	text-decoration: none;
 }
-/* Sponsors*/
-#sponsors
-{
-    float:left;
-}
-#sponsors ul
-{
-    list-style:none;
-}
-#sponsors li
-{
-	padding: 15px;
-}
-#sponsors img
-{
-    vertical-align: top;
-    float: left;
-}
 
 /* Sidebar */
 
@@ -427,27 +409,6 @@ span.codedirection { unicode-bidi:bidi-override; direction: rtl;}
 #avatar a:hover {
 	text-decoration: underline;
 	color: #787878;
-}
-
-/* Calendar */
-
-#calendar {
-}
-
-#calendar_wrap {
-	padding: 20px;
-}
-
-#calendar table {
-	width: 100%;
-}
-
-#calendar tbody td {
-	text-align: center;
-}
-
-#calendar #next {
-	text-align: right;
 }
 
 /* Footer */
